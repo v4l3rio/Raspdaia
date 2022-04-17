@@ -1,0 +1,589 @@
+{
+  "sftp://192.168.1.147:22@pi": {
+    "home": {
+      "pi": {
+        ".bash_logout": {
+          "type": "-",
+          "size": 220,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".profile": {
+          "type": "-",
+          "size": 675,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".nano": {},
+        "Progetto": {
+          "package.json": {
+            "type": "-",
+            "size": 319,
+            "lmtime": 1549719555754,
+            "modified": true
+          },
+          "node_modules": {
+            "rpio": {
+              ".eslintrc.js": {
+                "type": "-",
+                "size": 8693,
+                "lmtime": 1549719475328,
+                "modified": false
+              },
+              "lib": {
+                "rpio.js": {
+                  "type": "-",
+                  "size": 17079,
+                  "lmtime": 1549719475658,
+                  "modified": false
+                }
+              },
+              "examples": {
+                "blink.js": {
+                  "type": "-",
+                  "size": 385,
+                  "lmtime": 1549719475712,
+                  "modified": false
+                },
+                "padcontrol.js": {
+                  "type": "-",
+                  "size": 659,
+                  "lmtime": 1549719475733,
+                  "modified": false
+                },
+                "i2c-lcd.js": {
+                  "type": "-",
+                  "size": 1215,
+                  "lmtime": 1549719475750,
+                  "modified": false
+                },
+                "dht11.js": {
+                  "type": "-",
+                  "size": 2164,
+                  "lmtime": 1549719475779,
+                  "modified": false
+                },
+                "spi-at93c46.js": {
+                  "type": "-",
+                  "size": 1110,
+                  "lmtime": 1549719475816,
+                  "modified": false
+                },
+                "button.js": {
+                  "type": "-",
+                  "size": 1609,
+                  "lmtime": 1549719475853,
+                  "modified": false
+                },
+                "pwm-led.js": {
+                  "type": "-",
+                  "size": 1025,
+                  "lmtime": 1549719475874,
+                  "modified": false
+                }
+              },
+              "package.json": {
+                "type": "-",
+                "size": 3028,
+                "lmtime": 1549719475363,
+                "modified": false
+              },
+              "test": {
+                "mock.js": {
+                  "type": "-",
+                  "size": 1374,
+                  "lmtime": 1549719475894,
+                  "modified": false
+                }
+              },
+              "package-lock.json": {
+                "type": "-",
+                "size": 96857,
+                "lmtime": 1549719475467,
+                "modified": false
+              },
+              "node_modules": {
+                "bindings": {
+                  "bindings.js": {
+                    "type": "-",
+                    "size": 5040,
+                    "lmtime": 1549719475940,
+                    "modified": false
+                  },
+                  "package.json": {
+                    "type": "-",
+                    "size": 2559,
+                    "lmtime": 1549719475985,
+                    "modified": false
+                  },
+                  "README.md": {
+                    "type": "-",
+                    "size": 3464,
+                    "lmtime": 1549719476001,
+                    "modified": false
+                  }
+                },
+                "nan": {
+                  "nan_persistent_12_inl.h": {
+                    "type": "-",
+                    "size": 3873,
+                    "lmtime": 1549719476039,
+                    "modified": false
+                  },
+                  "nan_implementation_12_inl.h": {
+                    "type": "-",
+                    "size": 14284,
+                    "lmtime": 1549719476060,
+                    "modified": false
+                  },
+                  "tools": {
+                    "1to2.js": {
+                      "type": "-",
+                      "size": 14364,
+                      "lmtime": 1549719476939,
+                      "modified": false
+                    },
+                    "package.json": {
+                      "type": "-",
+                      "size": 441,
+                      "lmtime": 1549719477010,
+                      "modified": false
+                    },
+                    "README.md": {
+                      "type": "-",
+                      "size": 456,
+                      "lmtime": 1549719477030,
+                      "modified": false
+                    }
+                  },
+                  "nan_converters_pre_43_inl.h": {
+                    "type": "-",
+                    "size": 1254,
+                    "lmtime": 1549719476095,
+                    "modified": false
+                  },
+                  "nan_new.h": {
+                    "type": "-",
+                    "size": 8786,
+                    "lmtime": 1549719476116,
+                    "modified": false
+                  },
+                  "nan-2.11.1.tgz": {
+                    "type": "-",
+                    "size": 74561,
+                    "lmtime": 1549719476168,
+                    "modified": false
+                  },
+                  "nan_json.h": {
+                    "type": "-",
+                    "size": 5772,
+                    "lmtime": 1549719476218,
+                    "modified": false
+                  },
+                  "nan_typedarray_contents.h": {
+                    "type": "-",
+                    "size": 2866,
+                    "lmtime": 1549719476253,
+                    "modified": false
+                  },
+                  "nan_string_bytes.h": {
+                    "type": "-",
+                    "size": 8102,
+                    "lmtime": 1549719476283,
+                    "modified": false
+                  },
+                  "package.json": {
+                    "type": "-",
+                    "size": 3834,
+                    "lmtime": 1549719476313,
+                    "modified": false
+                  },
+                  "nan_converters.h": {
+                    "type": "-",
+                    "size": 2109,
+                    "lmtime": 1549719476339,
+                    "modified": false
+                  },
+                  "nan_object_wrap.h": {
+                    "type": "-",
+                    "size": 4097,
+                    "lmtime": 1549719476367,
+                    "modified": false
+                  },
+                  "include_dirs.js": {
+                    "type": "-",
+                    "size": 55,
+                    "lmtime": 1549719476396,
+                    "modified": false
+                  },
+                  "nan_persistent_pre_12_inl.h": {
+                    "type": "-",
+                    "size": 6157,
+                    "lmtime": 1549719476416,
+                    "modified": false
+                  },
+                  "nan_maybe_pre_43_inl.h": {
+                    "type": "-",
+                    "size": 8230,
+                    "lmtime": 1549719476454,
+                    "modified": false
+                  },
+                  "nan_implementation_pre_12_inl.h": {
+                    "type": "-",
+                    "size": 7943,
+                    "lmtime": 1549719476483,
+                    "modified": false
+                  },
+                  "nan_maybe_43_inl.h": {
+                    "type": "-",
+                    "size": 12588,
+                    "lmtime": 1549719476518,
+                    "modified": false
+                  },
+                  "nan_callbacks_12_inl.h": {
+                    "type": "-",
+                    "size": 17536,
+                    "lmtime": 1549719476548,
+                    "modified": false
+                  },
+                  "nan_weak.h": {
+                    "type": "-",
+                    "size": 14998,
+                    "lmtime": 1549719476598,
+                    "modified": false
+                  },
+                  "doc": {
+                    "persistent.md": {
+                      "type": "-",
+                      "size": 10889,
+                      "lmtime": 1549719477064,
+                      "modified": false
+                    },
+                    "asyncworker.md": {
+                      "type": "-",
+                      "size": 5351,
+                      "lmtime": 1549719477087,
+                      "modified": false
+                    },
+                    "object_wrappers.md": {
+                      "type": "-",
+                      "size": 8226,
+                      "lmtime": 1549719477128,
+                      "modified": false
+                    },
+                    "json.md": {
+                      "type": "-",
+                      "size": 1941,
+                      "lmtime": 1549719477173,
+                      "modified": false
+                    },
+                    "v8_internals.md": {
+                      "type": "-",
+                      "size": 7405,
+                      "lmtime": 1549719477206,
+                      "modified": false
+                    },
+                    "string_bytes.md": {
+                      "type": "-",
+                      "size": 1900,
+                      "lmtime": 1549719477232,
+                      "modified": false
+                    },
+                    "errors.md": {
+                      "type": "-",
+                      "size": 7404,
+                      "lmtime": 1549719477264,
+                      "modified": false
+                    },
+                    "node_misc.md": {
+                      "type": "-",
+                      "size": 5704,
+                      "lmtime": 1549719477291,
+                      "modified": false
+                    },
+                    "methods.md": {
+                      "type": "-",
+                      "size": 27235,
+                      "lmtime": 1549719477321,
+                      "modified": false
+                    },
+                    "new.md": {
+                      "type": "-",
+                      "size": 4859,
+                      "lmtime": 1549719477348,
+                      "modified": false
+                    },
+                    "maybe_types.md": {
+                      "type": "-",
+                      "size": 22397,
+                      "lmtime": 1549719477398,
+                      "modified": false
+                    },
+                    "buffers.md": {
+                      "type": "-",
+                      "size": 2121,
+                      "lmtime": 1549719477431,
+                      "modified": false
+                    },
+                    "converters.md": {
+                      "type": "-",
+                      "size": 1950,
+                      "lmtime": 1549719477451,
+                      "modified": false
+                    },
+                    "scopes.md": {
+                      "type": "-",
+                      "size": 2362,
+                      "lmtime": 1549719477486,
+                      "modified": false
+                    },
+                    "v8_misc.md": {
+                      "type": "-",
+                      "size": 2914,
+                      "lmtime": 1549719477509,
+                      "modified": false
+                    },
+                    "callback.md": {
+                      "type": "-",
+                      "size": 2633,
+                      "lmtime": 1549719477539,
+                      "modified": false
+                    },
+                    "script.md": {
+                      "type": "-",
+                      "size": 1279,
+                      "lmtime": 1549719477563,
+                      "modified": false
+                    }
+                  },
+                  "nan_callbacks_pre_12_inl.h": {
+                    "type": "-",
+                    "size": 17085,
+                    "lmtime": 1549719476623,
+                    "modified": false
+                  },
+                  "LICENSE.md": {
+                    "type": "-",
+                    "size": 1216,
+                    "lmtime": 1549719476664,
+                    "modified": false
+                  },
+                  "nan_private.h": {
+                    "type": "-",
+                    "size": 2477,
+                    "lmtime": 1549719476688,
+                    "modified": false
+                  },
+                  "nan.h": {
+                    "type": "-",
+                    "size": 85319,
+                    "lmtime": 1549719476733,
+                    "modified": false
+                  },
+                  "nan_converters_43_inl.h": {
+                    "type": "-",
+                    "size": 1728,
+                    "lmtime": 1549719476792,
+                    "modified": false
+                  },
+                  "nan_define_own_property_helper.h": {
+                    "type": "-",
+                    "size": 1027,
+                    "lmtime": 1549719476820,
+                    "modified": false
+                  },
+                  "CHANGELOG.md": {
+                    "type": "-",
+                    "size": 20304,
+                    "lmtime": 1549719476856,
+                    "modified": false
+                  },
+                  "nan_callbacks.h": {
+                    "type": "-",
+                    "size": 3089,
+                    "lmtime": 1549719476879,
+                    "modified": false
+                  },
+                  "README.md": {
+                    "type": "-",
+                    "size": 28607,
+                    "lmtime": 1549719476909,
+                    "modified": false
+                  }
+                }
+              },
+              ".npmignore": {
+                "type": "-",
+                "size": 19,
+                "lmtime": 1549719475491,
+                "modified": false
+              },
+              "handler.diff": {
+                "type": "-",
+                "size": 4086,
+                "lmtime": 1549719475507,
+                "modified": false
+              },
+              ".travis.yml": {
+                "type": "-",
+                "size": 233,
+                "lmtime": 1549719475537,
+                "modified": false
+              },
+              "src": {
+                "bcm2835.h": {
+                  "type": "-",
+                  "size": 79021,
+                  "lmtime": 1549719477647,
+                  "modified": false
+                },
+                "bcm2835.c": {
+                  "type": "-",
+                  "size": 44047,
+                  "lmtime": 1549719477697,
+                  "modified": false
+                },
+                "rpio.cc": {
+                  "type": "-",
+                  "size": 10981,
+                  "lmtime": 1549719477727,
+                  "modified": false
+                }
+              },
+              "binding.gyp": {
+                "type": "-",
+                "size": 198,
+                "lmtime": 1549719475559,
+                "modified": false
+              },
+              "build": {
+                "config.gypi": {
+                  "type": "-",
+                  "size": 4070,
+                  "lmtime": 1549719477756,
+                  "modified": false
+                },
+                "Makefile": {
+                  "type": "-",
+                  "size": 12567,
+                  "lmtime": 1549719477789,
+                  "modified": false
+                },
+                "rpio.target.mk": {
+                  "type": "-",
+                  "size": 3592,
+                  "lmtime": 1549719477814,
+                  "modified": false
+                },
+                "Release": {
+                  "rpio.node": {
+                    "type": "-",
+                    "size": 56176,
+                    "lmtime": 1549719477880,
+                    "modified": false
+                  },
+                  ".deps": {
+                    "Release": {
+                      "obj.target": {
+                        "rpio": {
+                          "src": {
+                            "bcm2835.o.d": {
+                              "type": "-",
+                              "size": 707,
+                              "lmtime": 1549719477972,
+                              "modified": false
+                            },
+                            "rpio.o.d": {
+                              "type": "-",
+                              "size": 3167,
+                              "lmtime": 1549719477999,
+                              "modified": false
+                            }
+                          }
+                        },
+                        "rpio.node.d": {
+                          "type": "-",
+                          "size": 230,
+                          "lmtime": 1549719477951,
+                          "modified": false
+                        }
+                      },
+                      "rpio.node.d": {
+                        "type": "-",
+                        "size": 187,
+                        "lmtime": 1549719477927,
+                        "modified": false
+                      }
+                    }
+                  },
+                  "obj.target": {
+                    "rpio.node": {
+                      "type": "-",
+                      "size": 56176,
+                      "lmtime": 1549719478038,
+                      "modified": false
+                    },
+                    "rpio": {
+                      "src": {
+                        "bcm2835.o": {
+                          "type": "-",
+                          "size": 18056,
+                          "lmtime": 1549719478072,
+                          "modified": false
+                        },
+                        "rpio.o": {
+                          "type": "-",
+                          "size": 38068,
+                          "lmtime": 1549719478128,
+                          "modified": false
+                        }
+                      }
+                    }
+                  }
+                },
+                "binding.Makefile": {
+                  "type": "-",
+                  "size": 112,
+                  "lmtime": 1549719477838,
+                  "modified": false
+                }
+              },
+              "CHANGELOG.md": {
+                "type": "-",
+                "size": 115,
+                "lmtime": 1549719475589,
+                "modified": false
+              },
+              "README.md": {
+                "type": "-",
+                "size": 27188,
+                "lmtime": 1549719475618,
+                "modified": false
+              }
+            }
+          },
+          "index.js": {
+            "type": "-",
+            "size": 1628,
+            "lmtime": 1549727181855,
+            "modified": false
+          }
+        },
+        ".bashrc": {
+          "type": "-",
+          "size": 3523,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".bash_history": {
+          "type": "-",
+          "size": 1086,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".npm": {}
+      }
+    }
+  },
+  "$version": 1
+}
